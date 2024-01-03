@@ -1,7 +1,7 @@
 # LFGPy
 
 <div align="center">
-    <img src="https://i.ibb.co/grmRzsk/1-removebg-preview.png" width="30%" height="30%">
+    <img src="https://i.ibb.co/6Dn2D1s/2r.png" width="30%" height="30%">
 </div>
 
 LFGPy is the Python client for the [LFG](https://lfg.exchange//) protocol. It allows you to trade and fetch data from Drift using Python.
